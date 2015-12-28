@@ -3,7 +3,7 @@
 
 Company Administration and Operations
 
- - Proposal to Council
+ - ~~Proposal to Council~~
  - Proposal for Advisor / Shareholder for Jake
  - Proposal for Vendor application to Scotia
  - IRAP follow up
@@ -18,7 +18,7 @@ Company Administration and Operations
  - Marketing Material
 	- business cards
 	- framework for case study
-	- average turnover for deal admin in Real Estate for cost analysis	
+	- ~~average turnover for deal admin in Real Estate for cost analysis~~
  - Website content
  - Proposal and Business plan for Larry
  - Line up meeting with Jessy and Tracy Simmons
