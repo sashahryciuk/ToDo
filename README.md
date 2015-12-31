@@ -23,7 +23,7 @@ Company Administration and Operations
  - Website content
  - Proposal and Business plan for Larry
  - Line up meeting with Jessy and Tracy Simmons
- - Meeting with Mary Anne
+ - ~~Meeting with Mary Anne~~
  
 
 # Completed 
