@@ -17,6 +17,7 @@ Company Administration and Operations
  - Hello Sign
  - Marketing Material
 	- business cards
+	- Photographer
 	- framework for case study
 	- ~~average turnover for deal admin in Real Estate for cost analysis~~
  - Website content
