@@ -7,7 +7,7 @@ Company Administration and Operations
  - Proposal for Advisor / Shareholder for Jake
  - Proposal for Vendor application to Scotia
  - IRAP follow up
- - Year End
+ - ~~Year End~~
  - ~~GST adjustment~~
  - Benefits package
  - WCB Year end payment
@@ -24,6 +24,8 @@ Company Administration and Operations
  - Proposal and Business plan for Larry
  - Line up meeting with Jessy and Tracy Simmons
  - ~~Meeting with Mary Anne~~
+ - Conveyancers feedback schedule (3 per week)
+ - Requirements and workflow for listings module
  
 
 # Completed 
